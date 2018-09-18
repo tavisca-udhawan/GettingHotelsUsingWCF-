@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Hyatt Regency",
+    "ID": 1,
+    "Address": "Pune",
+    "Rating": 4
+  },
+  {
+    "Name": "IBIS Hotel",
+    "ID": 2,
+    "Address": "Pune",
+    "Rating": 4
+  },
+  {
+    "Name": "Taj Hotel",
+    "ID": 3,
+    "Address": "Mumbai",
+    "Rating": 5
+  },
+ {
+    "Name": "No Votel",
+    "ID": 4,
+    "Address": "Pune",
+    "Rating": 3
+  },
+  {
+    "Name": "Hote Aberoi",
+    "ID": 5,
+    "Address": "Mumbai",
+    "Rating": 5
+  },
+  {
+    "Name": "Cosmo Luxury",
+    "ID": 6,
+    "Address": "Pune",
+    "Rating": 4
+  },
+ {
+    "Name": "Hotel Taj",
+    "ID": 7,
+    "Address": "Chandigarh",
+    "Rating": 4
+  },
+  {
+    "Name": "JW Marriot",
+    "ID": 8,
+    "Address": "Chandigarh",
+    "Rating": 5
+  },
+  {
+    "Name": "Hotel Sunbeam",
+    "ID": 9,
+    "Address": "Chandigarh",
+    "Rating": 4
+  },
+  {
+    "Name": "Hotel LandMark",
+    "ID": 10,
+    "Address": "Bangalore",
+    "Rating": 4
+  }
+]
